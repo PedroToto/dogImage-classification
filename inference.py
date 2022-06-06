@@ -1,3 +1,10 @@
+
+# Code reference
+# https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sagemaker-runtime.html#SageMakerRuntime.Client.invoke_endpoint
+# https://sagemaker.readthedocs.io/en/stable/frameworks/tensorflow/deploying_tensorflow_serving.html?highlight=invoke#making-predictions-with-the-aws-cli
+# https://github.com/aws/sagemaker-tensorflow-serving-container#prepost-processing
+# https://sagemaker.readthedocs.io/en/stable/frameworks/pytorch/using_pytorch.html
+
 import os
 from PIL import Image
 import io
